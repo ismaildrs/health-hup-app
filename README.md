@@ -45,10 +45,6 @@ Health Hub is a mobile application focused on health and fitness, where users ca
    - Create a database named `health_hub_db`.
    - Follow instructions in the `PHP_backend` directory to set up your backend.
 
-4. **Run the PHP server:**
-   ```sh
-   php -S localhost:8000 -t backend
-   ```
 
 5. **Configure the Flutter app:**
    - Update the base URL in the `lib/api_connection/api_connection.dart` to point to your local PHP server:

@@ -15,7 +15,7 @@
 
 3. **Database Setup:**
    - Open your browser and go to `http://localhost/phpmyadmin`.
-   - Create a new database named `health_hub`.
+   - Create a new database named `health_hub_db`.
    - Import the provided SQL file (`health_hub_db.sql`) located in the `health_hub_db` folder to set up the necessary tables.
 
 4. **Accessing the backend:**
